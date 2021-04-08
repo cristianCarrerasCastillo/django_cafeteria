@@ -1,5 +1,6 @@
 {% extends 'core/base.html' %}
 {% block title %}Blog{% endblock %}
+{% load static %}
 
 {% block content %}
     <section class="page-section cta">
@@ -12,7 +13,7 @@
                 <span class="section-heading-lower">Ofertas de otoño</span>
               </h2>
               <p class="mb-0">
-                <img class="mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="{% static 'static/img/products-01.jpg' %}" alt="">
+                <img class="mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="{% static 'core/img/products-01.jpg' %}" alt="">
               </p>
               <p class="mb-0 mbt">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec leo dui, vehicula vel dapibus ac, tempus non enim. Nunc tempor vel lacus vel gravida. Nam sit amet pellentesque mi. Aliquam eget porta mi, quis fermentum metus. Curabitur efficitur pellentesque tellus nec volutpat. In viverra mattis sem, facilisis condimentum mi rutrum ut. Quisque ut pellentesque dui. Nullam eu vehicula metus. Pellentesque id interdum elit. Aenean in efficitur enim.
