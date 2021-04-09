@@ -4,7 +4,7 @@ backend de una web empresarial de una cafeteria
 ## Importante!: Proyecto en construcción
 
 El desarrollo de este backend es el resultado de mi estudio de la herramienta django, es de libre uso, siempre y cuando no sea para venderlo a terceros.
-tal y como esta subido en el git, no es recomendable correrlo directamente en un servidor, hasta que la variable de django, DEBUG quedé en False.
+tal y como esta subido en el git, no es recomendable correrlo directamente en un servidor, hasta que la variable de django, DEBUG esté en False.
 
 ## To Do
 - falta crear aplicación de registro en blog
