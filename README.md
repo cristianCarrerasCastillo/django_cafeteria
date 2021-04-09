@@ -7,7 +7,7 @@ El desarrollo de este backend es el resultado de mi estudio de la herramienta dj
 tal y como esta subido en el git, no es recomendable correrlo directamente en un servidor, hasta que la variable de django, DEBUG esté en False.
 
 ## To Do
-- falta crear aplicación de registro en blog
 - falta crear aplicación en contact
 - Falta hacer que la pag blog muestre su contenido leyendo desde la app blog
 - Falta hacer la comunicación de la pag contact hacia el servidor de correo
+- Falta vincular django con un servicio tipo nginx 
