@@ -8,7 +8,5 @@ tal y como esta subido en el git, no es recomendable correrlo directamente en un
 
 ## To Do
 - falta crear aplicación en contact
-- Falta hacer que la pag blog muestre su contenido leyendo desde la app blog
-    - la función de categorys post esta con error ya que no cuentra la plantilla category.html, se debe arreglar esto.
 - Falta hacer la comunicación de la pag contact hacia el servidor de correo
 - Falta vincular django con un servicio tipo nginx 
