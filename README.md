@@ -6,6 +6,11 @@ backend de una web empresarial de una cafeteria
 El desarrollo de este backend es el resultado de mi estudio de la herramienta django, es de libre uso, siempre y cuando no sea para venderlo a terceros.
 tal y como esta subido en el git, no es recomendable correrlo directamente en un servidor, hasta que la variable de django, DEBUG esté en False.
 
+## Features
+- App de Blog
+- App para vincular redes sociales
+- App de service
+
 ## To Do
 - falta crear aplicación en contact
 - Falta hacer la comunicación de la pag contact hacia el servidor de correo
