@@ -1,7 +1,7 @@
 # django_cafeteria | version dj-b.0.3
 backend de una web empresarial de una cafeteria
 
-## Importante!: Proyecto en construcción | status: in error
+## Importante!: Proyecto en construcción | status: ok
 
 El desarrollo de este backend es el resultado de mi estudio de la herramienta django, es de libre uso, siempre y cuando no sea para venderlo a terceros.
 tal y como esta subido en el git, no es recomendable correrlo directamente en un servidor, hasta que la variable de django, DEBUG esté en False.
