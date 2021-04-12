@@ -14,9 +14,16 @@
                   <span class="section-heading-upper">Envíanos tus dudas</span>
                   <span class="section-heading-lower">Contacto</span>
                 </h2>
+                <form action="" method="POST">
+                  {% csrf_token %}
+                  <table>
+                    {{form}}
+                  </table>  
+                  <input type="submit" class="btn btn-primary btn-block py-2" value="Enviar">
+                </form>
 
                 <!-- Formulario de contacto -->
-                <form>
+                <!--form>
                     <div class="form-group">
                         <label>Nombre *</label>
                         <div class="input-group">

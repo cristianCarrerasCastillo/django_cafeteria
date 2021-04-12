@@ -10,9 +10,10 @@ tal y como esta subido en el git, no es recomendable correrlo directamente en un
 - App de Blog
 - App para vincular redes sociales
 - App de service
+- App para crear pag discleimer legal
+    - Editor ckeditr para decorar estas pag desde el panel de administración
 
 ## To Do
-- falta crear los modelos de la app pages(politicas de privacidad, aviso legal, cookies)
-- falta crear aplicación en contact
+- falta crear aplicación en contact (no esta lista)
 - Falta hacer la comunicación de la pag contact hacia el servidor de correo
 - Falta vincular django con un servicio tipo nginx 
