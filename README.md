@@ -1,4 +1,4 @@
-# django_cafeteria | version dj-b.0.3
+# django_cafeteria | version dj-b.0.4
 backend de una web empresarial de una cafeteria
 
 ## Importante!: Proyecto en construcción | status: ok
