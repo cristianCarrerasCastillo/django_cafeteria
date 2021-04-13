@@ -1,10 +1,10 @@
-# django_cafeteria | version dj-b.0.4
+# django_cafeteria | version 1
 backend de una web empresarial de una cafeteria
 
-## Importante!: Proyecto en construcción | status: ok
+## Status: ok
 
-El desarrollo de este backend es el resultado de mi estudio de la herramienta django, es de libre uso, siempre y cuando no sea para venderlo a terceros.
-tal y como esta subido en el git, no es recomendable correrlo directamente en un servidor, hasta que la variable de django, DEBUG esté en False.
+Para implementar el proyecto en un servidor de producción de debe dejar la variable **DEBUG** en **False**, en django_empresa/settings.py
+Esta configurado un mail de prueba, por lo cual, para correrlo en producción, se debe configurar el correo de tu dominio, esta configuración la debes cambiar en django_empresa/settings.py, al final del documento
 
 ## Features
 - App de Blog
@@ -13,6 +13,3 @@ tal y como esta subido en el git, no es recomendable correrlo directamente en un
 - App para crear pag discleimer legal
     - Editor ckeditr para decorar estas pag desde el panel de administración
 - App de contacto
-
-## To Do
-- Falta vincular django con un servicio tipo nginx 
