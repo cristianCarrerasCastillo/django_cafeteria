@@ -13,3 +13,6 @@ Esta configurado un mail de prueba, por lo cual, para correrlo en producción, s
 - App para crear pag discleimer legal
     - Editor ckeditr para decorar estas pag desde el panel de administración
 - App de contacto
+
+## To Do
+- Modificar panel de administrador para una imagen más corporativa
