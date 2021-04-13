@@ -12,8 +12,7 @@ tal y como esta subido en el git, no es recomendable correrlo directamente en un
 - App de service
 - App para crear pag discleimer legal
     - Editor ckeditr para decorar estas pag desde el panel de administración
+- App de contacto
 
 ## To Do
-- falta crear aplicación en contact (no esta lista)
-- Falta hacer la comunicación de la pag contact hacia el servidor de correo
 - Falta vincular django con un servicio tipo nginx 
