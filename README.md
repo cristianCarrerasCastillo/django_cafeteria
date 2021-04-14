@@ -16,3 +16,6 @@ Esta configurado un mail de prueba, por lo cual, para correrlo en producción, s
 
 ## To Do
 - Modificar panel de administrador para una imagen más corporativa
+- Crear app para modificar el about desde el panel de administrador
+    - Que cargue solo 1 about y no un array
+
